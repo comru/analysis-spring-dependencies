@@ -1,6 +1,6 @@
 # analysis-spring-dependencies
 
-Last updated: 2022.07.05
+Last updated: 2022-07-05T07:30:24Z
 
 #### Developer Tools
 | Dependency name                     | Maven                                                                                                   | Gradle                                                                                              |
