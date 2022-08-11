@@ -1,0 +1,71 @@
+Search query (spring java ${KEY_WORD}),Result
+<empty>,24 113
+cloud,13 845
+Web,13 779
+Data,13 374
+SQL,10 701
+integration,10 374
+aws,9 367
+REST,9 237
+Security,8 212
+Oracle,6 794
+Hibernate,5 955
+docker,5 732
+kafka,5 294
+kubernetes,5 172
+maven,4 548
+linux,4 284
+NoSQL,4 069
+junit,3 678
+MVC,3 653
+MySQL,2 792
+Messaging,2 695
+mongodb,2 377
+jdbc,2 013
+jpa,1 946
+jms,1 882
+batch,1 848
+gradle,1 755
+PostgreSQL,1 711
+orm,1 664
+cassandra,1 522
+redis,1 370
+gateway,1 263
+streaming,1 207
+elasticsearch,1 108
+spring groovy,934
+graphql,875
+spring kotlin,801
+mybatis,758
+activemq,496
+socket,281
+balancer,257
+oauth2,187
+couchbase,181
+cache,178
+websocket,164
+ldap,163
+mariadb,158
+ibm db2,152
+zookeeper,115
+netflix,109
+amqp,100
+webflux,85
+neo4j,85
+liquibase,78
+zipkin,46
+quartz,42
+thymeleaf,40
+flyway,28
+freemarker,27
+actuator,26
+artemis,25
+feign,21
+vaadin,16
+lombok,13
+h2,10
+jooq,9
+mustache,4
+eclipselink,4
+hsql,4
+r2dbc,0
