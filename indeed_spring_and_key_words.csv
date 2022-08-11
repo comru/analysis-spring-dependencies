@@ -33,6 +33,7 @@ redis,1 370
 gateway,1 263
 streaming,1 207
 elasticsearch,1 108
+swagger, 938
 spring groovy,934
 graphql,875
 spring kotlin,801
@@ -40,6 +41,7 @@ mybatis,758
 activemq,496
 socket,281
 balancer,257
+openapi, 238
 oauth2,187
 couchbase,181
 cache,178
